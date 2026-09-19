@@ -86,21 +86,22 @@ MSCS_634_Lab_1/
 ├── retail_sales_data.csv
 ├── README.md
 │
-└── screenshots/
-    ├── 01_missing_values_before.png
-    ├── 02_missing_values_after.png
-    ├── 03_iqr_calculation.png
-    ├── 04_identified_outliers.png
-    ├── 05_outliers_removed.png
-    ├── 06_data_reduction_before.png
-    ├── 07_data_reduction_after.png
-    ├── 08_scaling_before.png
-    ├── 09_scaling_after.png
-    ├── 10_dataset_info.png
-    ├── 11_descriptive_statistics.png
-    ├── 12_central_tendency.png
-    ├── 13_dispersion_measures.png
-    └── 14_correlation_matrix.png
+├── 01_first_five_rows.png
+├── 02_dataset_creation_and_loading.png
+├── 03_missing_values_before.png
+├── 04_missing_values_detection_and_imputation.png
+├── 05_missing_values_after.png
+├── 06_iqr_calculation.png
+├── 07_identified_outliers.png
+├── 08_dataset_after_outlier_removal.png
+├── 09_data_reduction_before.png
+├── 10_data_reduction_after.png
+├── 11_scaling_discretization_before.png
+├── 12_scaling_discretization_after.png
+├── 13_dataset_info_and_describe.png
+├── 14_central_tendency.png
+├── 15_dispersion_measures.png
+└── 16_correlation_matrix.png
 ```
 
 ## Technologies Used
@@ -134,7 +135,7 @@ MSCS_634_Lab_1_Data_Visualization_Preprocessing_Statistics.ipynb
 
 ## Screenshots
 
-The `screenshots` folder contains the required evidence for the data visualization, preprocessing, and statistical analysis steps. Each screenshot is clearly labelled according to the corresponding task in the lab instructions.
+The screenshot image files (`01_first_five_rows.png` through `16_correlation_matrix.png`) are included in the repository root as required evidence for the data loading, preprocessing, and statistical analysis steps. Each file is numbered and labelled according to the corresponding task in the lab instructions. The Step 2 visualizations (bar chart, histogram, and scatter plot) are rendered directly inside the notebook.
 
 ## Conclusion
 
